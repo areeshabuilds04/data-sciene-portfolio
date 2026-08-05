@@ -1,2 +1,2 @@
 # data-sciene-portfolio
-my all datascience projects
+this portfolio contains my all datascience projects.
